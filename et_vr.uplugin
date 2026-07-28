@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "et-vr",
+	"Description": "Extension for VR projects",
+	"Category": "Virtual Reality",
+	"CreatedBy": "Erbol Tokur",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "et_vr",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
